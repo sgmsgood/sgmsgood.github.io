@@ -11,6 +11,20 @@ comments: true
 
 2. 사용법
  1) 의존성 설정하기 'build.gradle (:app)'
-```java
+```kotlin
 implementation "android.arch.lifecycle:extensions:1.1.1"
+```
+ 2) ViewModel 클래스 작성
+```kotlin
+class Test1ViewModel: ViewModel() {
+    var user: MutableLiveData<User1>;
+
+    fun getUser(): MutableLiveData<User1> { 
+        if (user == null) {
+            user = MutableLiveData<User1>()
+            user.postValue(User("gildong", "hong"))
+        }
+        return user
+    }
+}
 ```
