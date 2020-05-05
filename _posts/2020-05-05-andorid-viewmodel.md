@@ -32,7 +32,6 @@ class Test1ViewModel: ViewModel() {
  3) 선언된 뷰모델 이용하기 (activity)
 ```kotlin
 private lateinit var user: Test1ViewModel
-
 private fun initViewModel() {
     activity?.let{
         val factory = ViewModelProvider.AndroidViewModelFactory.getInstance(it.application)
