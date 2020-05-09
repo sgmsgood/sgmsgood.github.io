@@ -33,9 +33,9 @@ kramdown:
 ####################################
 #
 owner:
-  name: Elen Li
+  name: 디두의 애바세상
   avatar: leonids-logo.png
-  job: "Android app developer"
+  job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
