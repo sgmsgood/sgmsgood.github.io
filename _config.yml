@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: 지수로그 개발일기
+  name: 디두의 개발로그
   avatar: dragon_coding.png
   job: "Android developer"
-  bio: "I'm looking for my Log"
+  bio: "야 너두? 야 나두"
   email:
   disqus-shortname:
   twitter: #username
