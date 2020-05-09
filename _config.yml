@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: 디두의 애바세상
+  name: 지수로그 개발일기
   avatar: leonids-logo.png
   job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  bio: "I'm looking for my Log"
   email:
   disqus-shortname:
   twitter: #username
