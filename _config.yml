@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: 디두의 프로그래밍 세상
+email: sgmsgood@gmail.com
+description: 안드로이드 개발
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Korea
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,9 +33,9 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Elen Li
   avatar: leonids-logo.png
-  job: "A jekyll theme"
+  job: "Android app developer"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
