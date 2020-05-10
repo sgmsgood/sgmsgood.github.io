@@ -38,8 +38,7 @@ comments: true
 * 오랜 시간이 걸리는 작업의 경우, Async Task가 아닌  java.util.concurrent패키지에서 제공하는 Executor, ThreadPoolExecutor 및 FutureTask 추천
 
 * Async Task 메소드 설명
-<p align="left">![asyncTask](https://t1.daumcdn.net/cfile/tistory/2508A94158FF825A22)</p>
-
+![asyncTask](https://t1.daumcdn.net/cfile/tistory/2508A94158FF825A22){:.alignleft}
 
 
 
