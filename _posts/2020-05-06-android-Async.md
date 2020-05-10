@@ -40,6 +40,10 @@ comments: true
 * Async Task 메소드 설명
 ![asyncTask](https://t1.daumcdn.net/cfile/tistory/2508A94158FF825A22){:.alignleft}
 
+### 4. Async Task 사용법
+
+### 5. Async Task 주의점
+
 
 
 
