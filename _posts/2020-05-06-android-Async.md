@@ -32,10 +32,10 @@ comments: true
     * 메인 쓰레드: UI 처리 
     * Async Task: 실질적인 작업 수행
 
-### 3. Asnc Task란?
+### 3. Async Task란?
 : 메인 쓰레드 작업을 좀 더 효율적이게 해줄 수 있는 백그라운드 기법
-
-
+: 작업 진행이 수 초간 진행될 때 추천
+: 오랜 시간이 걸리는 작업의 경우, Async Task가 아닌  java.util.concurrent패키지에서 제공하는 Executor, ThreadPoolExecutor 및 FutureTask 추천
 
 
 
